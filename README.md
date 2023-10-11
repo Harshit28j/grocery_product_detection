@@ -23,3 +23,9 @@ python detect.py --weights best.pt --source path/to/your/image.jpg
 ```
 python detect.py --weights best.pt --source path/to/your/video.mp4
 ```
+
+
+All the records will be stored in runs/detect folder 
+
+
+![image](https://github.com/Harshit28j/square_thon/assets/48647625/911b9042-1af5-4fc4-9760-ca13ca5da576)
