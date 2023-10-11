@@ -1,1 +1,4 @@
+*.py -text
+*.yaml -text
+*.txt -text
 *.* -text
